@@ -35,6 +35,8 @@ I AM A GROUP MANAGER BOT MAINTAINED BY
 
 HIT HELP FOR COMMANDS  /help
 
+THANKS TO -------> [THUG](THUGS_OFFICIAL) For such amazing TG bot 🤖🤖😎😎
+
 
 [THUGS](https://github.com/THUGSOFFICIAL/THUGSTG)
 
