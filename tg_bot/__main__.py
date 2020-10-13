@@ -27,13 +27,6 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-
-┈┈┈┈╱▔▔▔▔╲┈┈┈┈
-┈┈┈▕▕╲┊┊╱▏▏┈┈┈
-┈┈┈▕▕▂╱╲▂▏▏┈┈┈
-┈┈┈┈╲┊┊┊┊╱┈┈┈┈
-┈┈┈┈▕╲▂▂╱▏┈┈┈┈
-╱▔▔▔▔┊┊┊┊▔▔▔▔╲
 HOI    {}, MY NAME IS {} !
 
 I AM A GROUP MANAGER BOT MAINTAINED BY 
@@ -42,11 +35,8 @@ I AM A GROUP MANAGER BOT MAINTAINED BY
 
 HIT HELP FOR COMMANDS  /help
 
-I AM COMPLETELY OPEN SOURCE
 
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
+[THUGS](https://github.com/THUGSOFFICIAL/THUGSTG)
 
 """
 
@@ -161,7 +151,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
 
     else:
-        update.effective_message.reply_text("Yo, whadup?🤧")
+        update.effective_message.reply_text("THUGS, **Never Die** 😎😎😎🔥🔥")
 
 
 def send_start(bot, update):
